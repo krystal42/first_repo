@@ -1,5 +1,7 @@
 h1{
-	color: blue;
+	color: whitesmoke;
 	font-size: 30px;
 	text-align: center;
+	background: blue;
+	text-shadow: 2px 2px aqua;
 }
