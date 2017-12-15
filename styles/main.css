@@ -5,3 +5,10 @@ h1{
 	background: blue;
 	text-shadow: 2px 2px aqua;
 }
+p{
+	color: blueviolet;
+}
+a{
+	text-decoration: none;
+	color: palevioletred;
+}
